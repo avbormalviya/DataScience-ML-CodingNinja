@@ -1,0 +1,35 @@
+Name, Age, Country, Occupation, Salary, Hours_Worked, Projects_Completed, Experience_Years, Department, Gender, Performance_Score, Leave_Days
+Elara, 22, Spain, Librarian, 35000, 40, 5, 2, Literature, Female, 88, 5
+Kai, 29, Japan, Engineer, 60000, , 10, 6, R&D, Male, 92, 8
+Mira, 25, India, Artist, 45000, 30, , 3, Design, Female, 80,
+Liam, 31, Australia, Chef, , 50, 8, 7, Kitchen, Male, 85, 10
+Sofia, , USA, Scientist, 70000, 38, 6, 4, Research, Female, 90, 7
+Ethan, 35, Canada, Teacher, 55000, 42, 9, 10, Education, Male, 87, 9
+Aarav, 28, India, Software Developer, 65000, 45, 11, 5, IT, Male, 95,
+Emma, 24, UK, Doctor, 75000, , 12, 3, Healthcare, Female, 89, 6
+Noah, 33, Brazil, Architect, , 50, 7, 8, Architecture, Male, 84,
+Ava, 27, South Africa, Biologist, 48000, 37, , 4, Research, Female, 83, 10
+Liam, 30, Germany, Data Analyst, 52000, , 10, 6, Analytics, Male, 91, 5
+Olivia, , France, Photographer, 47000, 32, 5, 3, Media, Female, 79, 4
+Arjun, 31, India, Writer, 40000, 25, , 4, Literature, Male, 82, 6
+Isabella, 29, Italy, Designer, 62000, 41, , 6, Design, Female, 88, 7
+Leo, 34, Argentina, Musician, , 39, 6, 7, Arts, Male, 86, 8
+Sophia, 27, Russia, Scientist, 73000, 40, 8, 5, Research, Female, 93,
+James, 36, USA, Manager, 68000, , 9, 12, Management, Male, 89, 9
+Amelia, 32, New Zealand, Researcher, 56000, 35, , 7, Research, Female, 87, 8
+Henry, 28, UK, Consultant, , 50, 10, 5, Consulting, Male, 90,
+Maya, 26, India, Engineer, 62000, 44, 9, 4, R&D, Female, 85, 7
+Jack, 29, Australia, Teacher, 50000, 36, 6, 3, Education, Male, 84, 10
+Zara, 31, South Africa, Scientist, 70000, 39, 7, 6, Research, Female, 91,
+Ryan, 30, Canada, Chef, 53000, 50, 8, 5, Kitchen, Male, 88, 6
+Ella, 33, Brazil, Architect, 67000, 48, 10, 8, Architecture, Female, 90,
+Lucas, 35, Argentina, Data Analyst, 58000, 42, 11, 10, Analytics, Male, 92, 5
+Anna, 28, Germany, Librarian, 46000, 35, 4, 2, Literature, Female, 79,
+Nora, 27, Sweden, Nurse, 54000, 38, 6, 4, Healthcare, Female, 85,
+Hugo, 31, France, Journalist, 49000, 40, 7, 5, Media, Male, 84, 4
+Layla, 33, Japan, Scientist, 71000, 39, 8, 6, Research, Female, 90,
+Mohamed, 28, Egypt, Lawyer, 65000, 45, 9, 5, Legal, Male, 87, 7
+Yara, 30, UAE, Teacher, 52000, 41, 7, 4, Education, Female, 89, 6
+Ravi, 29, India, Analyst, 60000, 42, 10, 5, Analytics, Male, 94,
+Lara, 31, Australia, Doctor, , 36, 9, 4, Healthcare, Female, 90,
+Oscar, 28, Brazil, Engineer, 62000, 50, 8, 7, R&D, Male, 88, 8
