@@ -25,7 +25,7 @@ Count
 
 import csv  # Importing the CSV module to handle file operations
 
-count = 0  # Variable to keep track of the count of jobs requiring a Bachelor's degree
+count = 0  # Variable to keep track of the count of jobs requiring a Bachelor'scratch_KNN.py degree
 
 # Opening the dataset file in read mode
 with open("amazon_jobs_dataset.csv", "r", encoding="utf-8") as fileObj:
@@ -35,9 +35,9 @@ with open("amazon_jobs_dataset.csv", "r", encoding="utf-8") as fileObj:
         # Extract the 'BASIC QUALIFICATIONS' column and remove unnecessary spaces
         basic_qualifications = row.get("BASIC QUALIFICATIONS", "").strip()
 
-        # Check if any variation of a Bachelor's degree is mentioned
+        # Check if any variation of a Bachelor'scratch_KNN.py degree is mentioned
         if "Bachelor" in basic_qualifications or "BS" in basic_qualifications or "BA" in basic_qualifications:
             count += 1  # Increment count if a match is found
 
-# Print the final count of job postings requiring a Bachelor's degree
+# Print the final count of job postings requiring a Bachelor'scratch_KNN.py degree
 print(count)

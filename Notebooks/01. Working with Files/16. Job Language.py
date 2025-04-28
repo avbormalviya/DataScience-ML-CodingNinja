@@ -49,7 +49,7 @@ with open("amazon_jobs_dataset.csv", "r", encoding="utf-8") as fileObj:
         # Extract the qualifications column
         basic_qualifications = row.get("BASIC QUALIFICATIONS", "").strip()
 
-        # Check if the job requires a Bachelor's degree
+        # Check if the job requires a Bachelor'scratch_KNN.py degree
         if "Bachelor" in basic_qualifications or "BS" in basic_qualifications or "BA" in basic_qualifications:
             # Count occurrences of each programming language
             if "Java" in basic_qualifications:

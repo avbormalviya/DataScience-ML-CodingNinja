@@ -9,7 +9,7 @@ This dataset includes systematic data on domestic as well as international terro
 occurred during this time period
 
 Problem Statement :
-There was formation of new government in India on 26 May 2014. So current government's span is from 26th May 2014
+There was formation of new government in India on 26 May 2014. So current government'scratch_KNN.py span is from 26th May 2014
 to current. Find out two things from this period-
 
 1. Total number of attacks done in this period in India. Find this count as integer.
